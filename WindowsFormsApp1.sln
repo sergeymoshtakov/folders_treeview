@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{F682B797-5998-46C3-8C4C-F6CC42355DCF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B4F5D14D-B5F8-4BDD-9A66-6BB2C77E5751}"
+	ProjectSection(SolutionItems) = preProject
+		WindowsFormsApp1\bin\Debug\file.png = WindowsFormsApp1\bin\Debug\file.png
+		WindowsFormsApp1\bin\Debug\folder.png = WindowsFormsApp1\bin\Debug\folder.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F682B797-5998-46C3-8C4C-F6CC42355DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F682B797-5998-46C3-8C4C-F6CC42355DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F682B797-5998-46C3-8C4C-F6CC42355DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F682B797-5998-46C3-8C4C-F6CC42355DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85AD8169-F5E9-47F3-AC86-C2F22559206D}
+	EndGlobalSection
+EndGlobal
